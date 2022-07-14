@@ -10,7 +10,7 @@ Time spent: 3 hours spent in total
 
 The following **required** functionality is complete:
 
-☑️ User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+☑️ User can enter a bill amount, choose a tip percentage, and see the tip and total values
 
 ☑️ User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
@@ -20,13 +20,13 @@ The following **optional** features are implemented:
 
 :x: Remembering the bill amount across app restarts (if <10mins)
 
-:x: Using locale-specific currency and currency thousands separators.
+:x: Using locale-specific currency and currency thousands separators
 
-:x: Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+:x: Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing
 
 The following **additional** features are implemented:
 
-None.
+☑️ User can pick a party size to split bill amount evenly (tip include)
 
 ## Video Walkthrough
 
@@ -38,7 +38,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Understanding and implemeting code in Swift absorbed majority of the developement time.
+The syntax took a bit to get used to however became intuitive shortly after. Required
+a lot of research and patience to implement the features deemed to be necessary to make
+the application look pleasing. Overall, it was a very entertaining and rare opportunity
+to develope an application for iOS devices.
 
 ## License
 
