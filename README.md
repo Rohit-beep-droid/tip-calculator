@@ -38,7 +38,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Understanding and implemeting code in Swift absorbed majority of the developement time.
+Understanding and implementing code in Swift absorbed majority of the developement time.
 The syntax took a bit to get used to however became intuitive shortly after. Required
 a lot of research and patience to implement the features deemed to be necessary to make
 the application look pleasing. Overall, it was a very entertaining and rare opportunity
