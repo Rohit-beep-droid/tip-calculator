@@ -28,6 +28,8 @@ The following **additional** features are implemented:
 
 ☑️ User can pick a party size to split bill amount evenly (tip include)
 
+☑️ Display the total amount of money each member of the party will have to contribute
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
